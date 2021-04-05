@@ -3,7 +3,7 @@ import './Content.css'
 
 const Content = props => (
     <main className="Content">
-        Component Content
+        <h1>Component Content</h1>
     </main>
 )
 export default Content
